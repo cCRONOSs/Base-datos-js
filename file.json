@@ -1,0 +1,63 @@
+
+{
+    "Nombre":"Universidad",
+    "Alumno":[
+        {
+            "Nombre": "George Alejandro",
+            "Apellido": "Delgadillo",
+            "Edad": 28,
+            "Materias": ["Español", "Matematicas"],
+            "Matricula": 1001
+        },
+        {
+            "Nombre": "Maria",
+            "Apellido": "Cortez",
+            "Edad": 21,
+            "Materias": ["Español", "Matematicas", "Ciencias Naturales"],
+            "Matricula": 1002
+        },
+        {
+            "Nombre": "Alberto",
+            "Apellido": "Hernandez",
+            "Edad": 25,
+            "Materias": ["Español", "Matematicas"],
+            "Matricula": 1026
+        },
+        {
+            "Nombre": "Ana",
+            "Apellido": "Estrada",
+            "Edad": 23,
+            "Materias": ["Español", "Matematicas", "Ciencias Naturales"],
+            "Matricula": 1123
+        },
+        {
+            "Nombre": "Gerardo",
+            "Apellido": "Zulli",
+            "Edad": 30,
+            "Materias": ["Español", "Matematicas"],
+            "Matricula": 1854
+        },
+        {
+            "Nombre": "Ernesto",
+            "Apellido": "Lopez",
+            "Edad": 21,
+            "Materias": ["Español", "Matematicas", "Ciencias Naturales"],
+            "Matricula": 1513
+        },
+        {
+            "Nombre": "Beatriz",
+            "Apellido": "Cambrano",
+            "Edad": 23,
+            "Materias": ["Español", "Matematicas"],
+            "Matricula": 1567
+        },
+        {
+            "Nombre": "Mar",
+            "Apellido": "Miramontes",
+            "Edad": 21,
+            "Materias": ["Español", "Matematicas", "Ciencias Naturales"],
+            "Matricula": 1009
+        }
+    ]
+    
+}

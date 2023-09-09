@@ -1,0 +1,14 @@
+.Datos{
+    height: 100vh;
+    justify-content: center;
+    
+}
+.busqueda{
+    display: flex;
+    flex-direction: column;
+}
+
+#inscripcion {
+    display: none;
+}
+
